@@ -1,0 +1,9 @@
+1- Librerias usadas.
+
+Se utilizaron las librerias: Typing, Dataclasses y como metodo de ejecución para la importación del código se uso el Dict y el Tuple.
+
+2- Version de las librerias usadas.
+
+.dataclasses 0.8
+.typing 3.10.0.0
+.dict 2020.12.3
